@@ -1,5 +1,7 @@
 # Clock-Digital-Stop-Watch
 
+you can view https://krishnavish9329.github.io/Clock-Digital-Stop-Watch/
+
 # What is digital clock?
 A digital clock is a type of clock that displays the time using digits, typically in the format of hours, minutes, and sometimes seconds. Unlike analog clocks, which use rotating hands to indicate time, digital clocks show time as a series of numeric values, often with a colon (:) separating hours and minutes.
 
